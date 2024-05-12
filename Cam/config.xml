@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="2024-05-10">
+  <video>
+    <length_s>60</length_s>
+  </video>
+  <image>
+    <path>/home/mlenka/images/</path>
+    <width>640</width>
+    <height>480</height>
+    <vflip>True</vflip>
+    <hflip>False</hflip>
+    <format>BGR888</format>
+  </image>
+</config>
+
+
+

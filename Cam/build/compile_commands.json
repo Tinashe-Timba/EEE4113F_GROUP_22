@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mlenka/dev/dev/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -Dimage_EXPORTS -I/home/mlenka/dev/dev/include -I/usr/include/python3.9 -I/home/mlenka/dev/dev/pybind11/include -fPIC -o CMakeFiles/image.dir/src/Image.cpp.o -c /home/mlenka/dev/dev/src/Image.cpp",
+  "file": "/home/mlenka/dev/dev/src/Image.cpp"
+},
+{
+  "directory": "/home/mlenka/dev/dev/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -Dimage_EXPORTS -I/home/mlenka/dev/dev/include -I/usr/include/python3.9 -I/home/mlenka/dev/dev/pybind11/include -fPIC -o CMakeFiles/image.dir/src/bind.cpp.o -c /home/mlenka/dev/dev/src/bind.cpp",
+  "file": "/home/mlenka/dev/dev/src/bind.cpp"
+}
+]

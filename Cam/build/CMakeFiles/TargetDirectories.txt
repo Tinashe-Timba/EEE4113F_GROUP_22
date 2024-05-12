@@ -1,0 +1,3 @@
+/home/mlenka/dev/dev/build/CMakeFiles/rebuild_cache.dir
+/home/mlenka/dev/dev/build/CMakeFiles/edit_cache.dir
+/home/mlenka/dev/dev/build/CMakeFiles/image.dir

@@ -7,3 +7,5 @@
  GUI software
  ### Power
  Power supply kicad files
+ ### Housing
+Mechanical Housing Solidworks Design

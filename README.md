@@ -8,4 +8,4 @@
  ### Power
  Power supply kicad files
  ### Housing
-Mechanical Housing Solidworks Design
+Mechanical Housing Solidworks Design & 3D Printing g-code

@@ -5,6 +5,7 @@
  Software for camera system
  ### GUI
  GUI software
+ Open and run TMBTIN004_GUI.
  ### Power
  Power supply kicad files
  ### Housing
